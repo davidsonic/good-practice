@@ -1,0 +1,17 @@
+build_of.py
+/data3/gesture/IsoGD_files/IsoGD/train /data4/jiali/data/iso_train --num_worker 3 --new_width 340 --new_height 256
+
+
+/data3/gesture/IsoGD_files/IsoGD_phase_2/test /data4/jiali/data/iso_phase2_test --num_worker 3 --new_width 340 --new_height 256
+
+
+iso_test:  color: B:   G:  R:    flow:  B:   G:   R:
+iso_train: color: B:   G:  R:    flow:  B:   G:   R:
+iso_phase2_test:  color: B:   G:   R:  flow: B:   G:   R:
+
+
+iso_test color
+iso_train color
+
+
+

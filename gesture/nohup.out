@@ -1,0 +1,7 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[   4623]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  20110]   WARN - api.vfs.impl.local.FileWatcher - Project files cannot be watched (are they under network mount?) 
+[2148449]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 

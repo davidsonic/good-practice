@@ -1,0 +1,12 @@
+2016-10-29 18:26:29,205 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-10-29 18:26:29,205 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-10-29 18:26:29,205 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-10-29 18:26:29,205 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-10-29 18:26:29,205 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-10-29 18:26:29,205 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-02 20:48:33,946 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-02 20:48:33,946 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-02 20:48:33,946 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-02 20:48:35,113 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-02 20:48:35,113 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-02 20:48:35,113 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
