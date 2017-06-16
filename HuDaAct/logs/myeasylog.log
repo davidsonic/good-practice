@@ -1,0 +1,395 @@
+2016-11-03 10:12:22,794 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_28/S13_C11_U28_P1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:22,794 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S2_C2_U2_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:22,794 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:22,794 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:22,794 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S15_C13_U12_B2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:22,794 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,524 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S2_C2_U2_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,524 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,537 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S15_C13_U12_B2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,537 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,651 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,651 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,789 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_8/S3_C2_U8_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,789 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,800 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,800 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,932 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_29/S14_C12_U29_BG-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,932 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,935 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,935 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_8/S3_C2_U8_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:23,935 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:23,935 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,091 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_29/S14_C12_U29_BG-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,091 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,124 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,124 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,124 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,124 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,234 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S15_C13_U4_B3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,234 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,237 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,237 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,239 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S2_C2_U4_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,239 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,342 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S15_C13_U4_B3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,342 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:24,380 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S2_C2_U4_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:24,380 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,389 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S15_C13_U14_B3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,390 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,392 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_25/S12_C11_U25_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,392 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,399 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_5/S3_C2_U5_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,399 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,496 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S15_C13_U14_B3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,496 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,507 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_25/S12_C11_U25_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,508 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,540 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_5/S3_C2_U5_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,540 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,629 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_P1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,629 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:25,734 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_P1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:25,734 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,432 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_15/S15_C13_U15_B1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,432 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,434 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_17/S7_C6_U17__E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,434 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,437 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,437 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,561 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,561 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_15/S15_C13_U15_B1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,561 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,561 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,562 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_17/S7_C6_U17__E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,562 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,668 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_28/S15_C13_U28_B1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,668 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,777 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_28/S15_C13_U28_B1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,777 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,806 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_16/S7_C6_U16_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,806 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,904 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_29/S17_C14_U29_B2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,905 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:26,931 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_16/S7_C6_U16_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:26,931 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,015 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_29/S17_C14_U29_B2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:27,015 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,042 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:27,042 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,162 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:27,162 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,505 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_23/S11_C10_U23_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:27,505 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,626 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_23/S11_C10_U23_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:29,797 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:27,741 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_P4-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:27,751 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_9/S15_C13_U9_B3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:29,797 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:29,797 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:29,930 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_25/S12_C11_U25_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:29,930 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:29,945 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_P4-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:29,945 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,005 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_9/S15_C13_U9_B3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,006 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,051 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_25/S12_C11_U25_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,052 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,065 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_16/S7_C6_U16_P4-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,065 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,176 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_16/S7_C6_U16_P4-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,176 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,191 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S5_C4_U12_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,192 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,357 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S5_C4_U12_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,357 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,506 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,506 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,834 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,834 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:30,987 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:30,987 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:31,159 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:31,159 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:31,348 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:31,348 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:31,414 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_7/S3_C2_U7_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:31,414 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:31,826 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S15_C13_U27_B1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:31,826 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,306 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,306 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,317 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S15_C13_U27_B1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,317 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,345 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_7/S3_C2_U7_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,345 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,455 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S15_C13_U2_B3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,455 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,460 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,460 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,490 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_19/S8_C7_U19_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,490 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,593 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S15_C13_U2_B3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,593 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,597 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,597 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:32,626 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_19/S8_C7_U19_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:32,626 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:34,796 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_BG-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:34,796 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:34,808 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S2_C2_U2_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:34,808 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:34,968 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_2/S2_C2_U2_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:34,968 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:35,035 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_14/S7_C6_U14_BG-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:35,035 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,352 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_1/S1_C1_U1_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,353 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,429 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_13/S6_C5_U13_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,429 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_18/S15_C13_U18_B1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,429 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,429 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,495 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_1/S1_C1_U1_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,495 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,561 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_13/S6_C5_U13_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,561 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,603 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_18/S15_C13_U18_B1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,603 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,646 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,646 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,697 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_P1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,698 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,804 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,804 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,878 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_P1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,878 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:36,999 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:36,999 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,119 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S5_C4_U10_P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,119 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,261 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S2_C2_U4_P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,261 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,416 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_4/S2_C2_U4_P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,416 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,505 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_3/S2_C2_U3_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,505 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,513 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S15_C13_U21_B1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,513 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,564 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S5_C4_U12_P3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,564 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:37,635 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_3/S2_C2_U3_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:37,812 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,418 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,418 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,500 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S15_C13_U21_B1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,500 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,503 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_12/S5_C4_U12_P3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,503 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,635 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_30/S14_C12_U30_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,635 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,640 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S13_C11_U27_P4-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,640 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,674 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_7/S3_C2_U7_BG-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,674 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,811 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S13_C11_U27_P4-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,811 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,863 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S10_C9_U21_E1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,863 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:39,915 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_7/S3_C2_U7_BG-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:39,915 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,061 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_15/S7_C6_U15_P4-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,062 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,075 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S10_C9_U21_E1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,075 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,108 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_BG-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,108 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,211 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_18/S8_C7_U18_E3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,211 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,230 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_15/S7_C6_U15_P4-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,230 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,361 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_18/S8_C7_U18_E3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,361 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,387 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_24/S11_C10_U24_BG-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,387 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,519 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_17/S7_C6_U17__P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,519 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,530 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,530 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,536 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S15_C13_U27_B2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,536 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,654 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_22/S10_C9_U22_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,654 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,691 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_17/S7_C6_U17__P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,691 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,798 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_27/S15_C13_U27_B2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,798 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,864 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S10_C9_U21_P1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,864 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:40,970 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S15_C13_U10_B3-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:40,970 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,044 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S10_C9_U21_P1-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,044 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,154 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_10/S15_C13_U10_B3-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,154 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,188 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_26/S13_C11_U26_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,188 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,267 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_1/S1_C1_U1_P2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,267 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,345 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_26/S13_C11_U26_E2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,345 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,349 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S15_C13_U21_B2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,349 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,424 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_1/S1_C1_U1_P2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,424 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,524 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_18/S8_C7_U18_E2-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,524 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,542 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_21/S15_C13_U21_B2-depth.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,542 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:12:41,556 FATAL [default] Check failed: [video_stream.isOpened()] Cannot open video stream "/data4/szhou/HuDaAct/data/USER_26/S13_C11_U26_P1-img.avi
+" for optical flow extraction.
+2016-11-03 10:12:41,556 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/src/dense_flow_gpu.cpp:15]
+2016-11-03 10:17:05,417 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:05,417 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:05,417 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:05,417 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:05,417 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:05,418 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:20,667 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:20,667 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:20,667 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:20,667 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:20,890 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:20,890 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:46,581 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:46,581 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:46,581 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-11-03 10:17:46,581 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:46,581 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:17:46,581 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]
+2016-11-03 10:18:02,391 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-11-03 10:18:02,391 WARN  [default] Aborting application. Reason: Fatal log at [/data4/jiali/good-practice/lib/dense_flow/include/easylogging++/src/easylogging++.h:5583]

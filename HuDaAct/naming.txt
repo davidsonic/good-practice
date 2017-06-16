@@ -1,0 +1,30 @@
+File format: OpenNI recordings (.oni)
+Framerate: 30 fps
+Image size:640x480
+
+Naming rules:
+For example:
+
+S11_C10_U23_M2.oni
+
+S: Session ID
+C: Calibration ID (as we fixed camera throughout all sessions, you can ignore this)
+U: User (subject) ID
+M: Action Category
+
+
+
+Action Category:
+E: exit the room
+BG/CB/SBG/SCB: background activity
+P: make a phone call
+G: get up from bed
+B: go to bed
+I: sit down
+O: mop floor
+T: stand up
+M: eat meal
+D: put on jacket
+K: drink water
+L: enter room
+N: take off jacket
